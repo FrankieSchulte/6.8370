@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "complex": "cpp",
+        "vector": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp"
+    }
+}
